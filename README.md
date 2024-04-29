@@ -13,10 +13,10 @@ Aplicativo escolhido
 - Navegador Edge OU Chrome
 
 # Executando os testes
-Informe quais foram os pontos de cobertura de teste da tela de login;
+Cadastro, Login e login/cadastro inválidos
 
 # Registro de teste
-Insira o link do vídeo gravado para atividade;
+[Video dos Testes](https://youtu.be/4gU-IGt7quo)
 
 # Autores 👨‍💻
 Nathan Laurindo Martins de Oliveira
